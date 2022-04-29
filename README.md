@@ -40,6 +40,19 @@ Lastly, we **studied our model using SHAP** and found that feature: distance is 
 
 ![image](https://user-images.githubusercontent.com/98693201/164931449-b4717888-4b5a-4022-8a6d-91d9102df677.png)   ![image](https://user-images.githubusercontent.com/98693201/164931746-8f59a80c-2d63-45f0-848a-aabf01518a73.png)
 
+### **Conclusion:** 
 
+In this project, we tried to predict the trip duration of a taxi in NYC. We took the information of pick up latitude, longitude and drop off latitude, longitude, along with some other fetures to get the distance of the trip. For our given dataset, LightGBM showed the best predictions of trip duration for a particular taxi.
 
+### **Future Scope**: 
 
+There's always a room for the improvement and a lot more to explore
+
+with newer feature creation,
+using some other filters than used in this notebook accuracy may get improved
+with target transformation.
+
+### **References-** 
+
+*   https://link.springer.com/article/10.1007/s13198-021-01130-x
+*   https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview
