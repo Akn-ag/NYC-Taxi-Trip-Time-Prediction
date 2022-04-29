@@ -23,7 +23,7 @@ In this project, through our exhaustive analysis and feature engineering we have
 
 Thereafter, **exploratory data analysis** was performed by closely looking and understanding each of the given features. The extracted features were found to have close relation with trip duration and thus they were of great importance. 
 
-![image](https://user-images.githubusercontent.com/98693201/164925029-185f8adb-d5a9-480d-b9b4-854b91eb7a33.png)       ![image](https://user-images.githubusercontent.com/98693201/164925633-6805a1fe-63b6-4567-a332-e311c42beb3a.png)
+![image](https://user-images.githubusercontent.com/98693201/165889199-a1d75bb1-0fbd-4145-9c59-a385cba58245.png)       ![image](https://user-images.githubusercontent.com/98693201/164925633-6805a1fe-63b6-4567-a332-e311c42beb3a.png)
 
 
 As **feature engineering** is the main task to be performed while modelling any dataset, therefore we created a new feature distance with help of pickup and dropoff latitude and longitude using distance formula. After completing feature engineering, we plotted distance and trip duration we found to have cone shaped graph but with lots of error.
