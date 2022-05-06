@@ -19,7 +19,7 @@ New York City, with a relatively large number of populations and busy streets re
 * Target Feature :
 * trip_duration : duration of the trip in seconds.
 
-In this project, through our exhaustive analysis and feature engineering we have trained the model to predict the value of trip duration using various models such as Linear Regression, Random Forest, XG Boost and Light GBM. We started with **understanding the problem statement and studying the dataset**. We found to have approx. 14 lakhs of observations but only 11 features. 
+In this project, through our exhaustive analysis and feature engineering we have trained the model to predict the value of trip duration using various models such as Linear Regression, Random Forest, XG Boost and Light GBM. We started with **understanding the problem statement and studying the dataset**. We found to have approx. 14 lakhs of observations but only 11 features. The colab of this project can be viewed from this file **TAG_Final_NYC_Taxi_Trip_Time_Prediction_Capstone_Project.ipynb**
 
 Thereafter, **exploratory data analysis** was performed by closely looking and understanding each of the given features. The extracted features were found to have close relation with trip duration and thus they were of great importance. 
 
@@ -51,6 +51,8 @@ There's always a room for the improvement and a lot more to explore
 with newer feature creation,
 using some other filters than used in this notebook accuracy may get improved
 with target transformation.
+
+### **Contributors-** Akanksha Agarwal | Ganesh Kumar Patel | Saurabh Funde | Yaman Saini | Sanjay Kumar
 
 ### **References-** 
 
